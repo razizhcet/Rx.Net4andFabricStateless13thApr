@@ -1,0 +1,16 @@
+E:\Rx.NET\Rx.Concurrency\bin\Debug\Rx.Concurrency.exe.config
+E:\Rx.NET\Rx.Concurrency\bin\Debug\Rx.Concurrency.exe
+E:\Rx.NET\Rx.Concurrency\bin\Debug\Rx.Concurrency.pdb
+E:\Rx.NET\Rx.Concurrency\bin\Debug\System.Reactive.Core.dll
+E:\Rx.NET\Rx.Concurrency\bin\Debug\System.Reactive.Interfaces.dll
+E:\Rx.NET\Rx.Concurrency\bin\Debug\System.Reactive.Linq.dll
+E:\Rx.NET\Rx.Concurrency\bin\Debug\System.Reactive.PlatformServices.dll
+E:\Rx.NET\Rx.Concurrency\bin\Debug\System.Reactive.Windows.Threading.dll
+E:\Rx.NET\Rx.Concurrency\bin\Debug\System.Reactive.Core.xml
+E:\Rx.NET\Rx.Concurrency\bin\Debug\System.Reactive.Interfaces.xml
+E:\Rx.NET\Rx.Concurrency\bin\Debug\System.Reactive.Linq.xml
+E:\Rx.NET\Rx.Concurrency\bin\Debug\System.Reactive.PlatformServices.xml
+E:\Rx.NET\Rx.Concurrency\bin\Debug\System.Reactive.Windows.Threading.xml
+E:\Rx.NET\Rx.Concurrency\obj\Debug\Rx.Concurrency.csprojResolveAssemblyReference.cache
+E:\Rx.NET\Rx.Concurrency\obj\Debug\Rx.Concurrency.exe
+E:\Rx.NET\Rx.Concurrency\obj\Debug\Rx.Concurrency.pdb
